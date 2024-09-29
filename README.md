@@ -31,4 +31,4 @@ O projeto "Tempo Juntos" é uma página web interativa que celebra momentos espe
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/euvitorti/dedicar_namoro.git
-   cd seu-repositorio
+   cd dedicar_namoro
